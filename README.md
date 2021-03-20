@@ -13,7 +13,7 @@
 -  Opensource Enthusiast 💪
 -  Looking for Opportunities 🙋
 -  ❤️ Tea 
-<br><br>
+<br>
 
 
 ## 📫CONNECT with ME 
@@ -73,7 +73,7 @@
   </tbody>
 </table>
 
-<br><br>
+<br>
 
 
 | ![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasisthaPrakhar&count_private=true&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasisthaprakhar&langs_count=10&show_icons=true&theme=radical) | 
