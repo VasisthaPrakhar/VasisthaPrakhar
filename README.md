@@ -58,8 +58,8 @@
         <img height="64px" src="https://appdividend.com/wp-content/uploads/2018/01/Javascript-ES7-Async-Await-Tutorial-With-Example-From-Scratch.jpg">
       </td>
       <td width="25%" align="center">
-        <span><strong>VS Code</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
+        <span><strong>MySql</span><br><br><br>
+        <img height="64px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png">
       </td>
        <td width="25%" align="center">
         <span><strong>React</span><br><br><br>
