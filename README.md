@@ -54,7 +54,7 @@
         <img height="64px" src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>JavaScript</span><br><br><br>
+        <span><strong>JavaScript(ES7)</span><br><br><br>
         <img height="64px" src="https://appdividend.com/wp-content/uploads/2018/01/Javascript-ES7-Async-Await-Tutorial-With-Example-From-Scratch.jpg">
       </td>
       <td width="25%" align="center">
