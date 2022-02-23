@@ -33,7 +33,7 @@
       </td>
       <td width="25%" align="center">
         <span><strong>HTML5</span><br><br><br>
-        <img height="64px" src="https://www.logolynx.com/images/logolynx/4f/4fc5eb035a93e267c23a909f21a87f5e.png">
+        <img height="64px" src="https://cdn.dribbble.com/users/2982/screenshots/105527/shot_1296040109.png">
       </td>
       <td width="25%" align="center">
         <span><strong>CSS</span><br><br><br>
@@ -55,7 +55,7 @@
       </td>
       <td width="25%" align="center">
         <span><strong>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
+        <img height="64px" src="https://appdividend.com/wp-content/uploads/2018/01/Javascript-ES7-Async-Await-Tutorial-With-Example-From-Scratch.jpg">
       </td>
       <td width="25%" align="center">
         <span><strong>VS Code</span><br><br><br>
