@@ -33,7 +33,7 @@
       </td>
       <td width="25%" align="center">
         <span><strong>HTML5</span><br><br><br>
-        <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">
+        <img height="64px" src="https://www.logolynx.com/images/logolynx/4f/4fc5eb035a93e267c23a909f21a87f5e.png">
       </td>
       <td width="25%" align="center">
         <span><strong>CSS</span><br><br><br>
