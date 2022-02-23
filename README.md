@@ -37,7 +37,7 @@
       </td>
       <td width="25%" align="center">
         <span><strong>CSS</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/css3.svg">
+        <img height="64px" src="https://www.logolynx.com/images/logolynx/s_3b/3b9d42a73e06ccac04deb9073e5235ba.png">
       </td>
        <td width="25%" align="center">
         <span><strong>Octave</span><br><br><br>
