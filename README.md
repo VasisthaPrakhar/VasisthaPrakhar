@@ -7,7 +7,9 @@
 
 <br>
 
--  Full-Stack(MERN) Web Developer 🧑‍💻
+-  Scientist-B @C-DOT
+-  Ex-SDE Intern Coding Ninjas
+-  Full-Stack(MEAN) + MySql + Ruby on Rails Web Developer 🧑‍💻  
 -  Looking for some interesting projects to work! 
 -  Machine Learning⚙️ /Deep Learning Enthusiast 🤖
 -  Opensource Enthusiast 💪
